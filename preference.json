@@ -1,5 +1,7 @@
-Любимый фильм - Остров проклятых
-Любимый сериал -  игра престолов
-Любимая еда - стейк
-Любимое время года - лето
-Страна, которую хочу посетить - Испания
+{
+ "Favourite film": "Lord of the Rings",
+"Favourite serial": "Game of thrones",
+"Favourite food": "Steak",
+"Favourite season": "Summer",
+"The country I want to visit": "Italy"
+}
